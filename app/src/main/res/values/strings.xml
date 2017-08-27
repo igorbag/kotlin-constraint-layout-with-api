@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kotlin-constraintlayout-with-api</string>
+    <string name="txtMaiorPreco">Maior preço</string>
+    <string name="txtMenorPreco">Menor preço</string>
+    <string name="txtMelhorPrecoCompra">Melhor preço para compra</string>
+    <string name="txtMelhorPrecoVenda">Melhor preço para venda</string>
+</resources>
